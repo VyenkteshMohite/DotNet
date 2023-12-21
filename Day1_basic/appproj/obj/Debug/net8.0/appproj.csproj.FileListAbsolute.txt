@@ -1,0 +1,14 @@
+C:\Users\IET\Documents\DotNet\Day1\appproj\bin\Debug\net8.0\appproj.exe
+C:\Users\IET\Documents\DotNet\Day1\appproj\bin\Debug\net8.0\appproj.deps.json
+C:\Users\IET\Documents\DotNet\Day1\appproj\bin\Debug\net8.0\appproj.runtimeconfig.json
+C:\Users\IET\Documents\DotNet\Day1\appproj\bin\Debug\net8.0\appproj.dll
+C:\Users\IET\Documents\DotNet\Day1\appproj\bin\Debug\net8.0\appproj.pdb
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.AssemblyInfo.cs
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.dll
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\refint\appproj.dll
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.pdb
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\appproj.genruntimeconfig.cache
+C:\Users\IET\Documents\DotNet\Day1\appproj\obj\Debug\net8.0\ref\appproj.dll
