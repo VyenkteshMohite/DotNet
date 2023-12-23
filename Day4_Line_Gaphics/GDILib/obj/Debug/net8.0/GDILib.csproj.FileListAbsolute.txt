@@ -9,3 +9,14 @@ D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.dll
 D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\refint\GDILib.dll
 D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\GDILib.pdb
 D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\GDILib\obj\Debug\net8.0\ref\GDILib.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\bin\Debug\net8.0\GDILib.deps.json
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\bin\Debug\net8.0\GDILib.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\bin\Debug\net8.0\GDILib.pdb
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\GDILib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfo.cs
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\GDILib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\GDILib.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\refint\GDILib.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\GDILib.pdb
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\GDILib\obj\Debug\net8.0\ref\GDILib.dll

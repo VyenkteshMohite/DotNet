@@ -16,3 +16,11 @@ D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp
 D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb

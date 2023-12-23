@@ -27,34 +27,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tfladmin\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\Paint\\Paint.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\Paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\Paint\\Paint.csproj",
-      "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
-      "outputPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\Paint\\obj\\",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\Paint\\Paint.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\Paint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\GDILib\\GDILib.csproj": {
-              "projectPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\GDILib\\GDILib.csproj"
+            "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\GDILib\\GDILib.csproj": {
+              "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\GDILib\\GDILib.csproj"
             }
           }
         }

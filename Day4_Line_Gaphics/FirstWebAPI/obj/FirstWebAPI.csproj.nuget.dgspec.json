@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\FirstWebAPI\\FirstWebAPI.csproj": {}
+    "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\FirstWebAPI\\FirstWebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\FirstWebAPI\\FirstWebAPI.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\FirstWebAPI\\FirstWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\FirstWebAPI\\FirstWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\FirstWebAPI\\FirstWebAPI.csproj",
         "projectName": "FirstWebAPI",
-        "projectPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\FirstWebAPI\\FirstWebAPI.csproj",
-        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
-        "outputPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\FirstWebAPI\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\FirstWebAPI\\FirstWebAPI.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\FirstWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

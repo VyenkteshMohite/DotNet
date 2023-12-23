@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tfladmin\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\GDILib\\GDILib.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\GDILib\\GDILib.csproj",
       "projectName": "GDILib",
-      "projectPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\GDILib\\GDILib.csproj",
-      "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
-      "outputPath": "D:\\Ravi\\CDAC\\PGDAC\\IET\\Sept23\\Day4\\GDILib\\obj\\",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\GDILib\\GDILib.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Leactures\\Day4_Line_Gaphics\\GDILib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

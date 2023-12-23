@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Paint
-build_property.ProjectDir = D:\Ravi\CDAC\PGDAC\IET\Sept23\Day4\Paint\
+build_property.ProjectDir = C:\Users\IET\Documents\DotNet\Leactures\Day4_Line_Gaphics\Paint\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
