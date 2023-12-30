@@ -9,7 +9,9 @@ public class DBManager
     {
         List<Student> allstudent = new List<Student>();
         MySqlConnection connection = new MySqlConnection();
-        connection.ConnectionString = "server=192.168.10.150;port=3306;username=dac51;password=welcome;database=dac51";
+        connection.ConnectionString = "server=127.0.0.1;port=3306;username=root;password=root;database=dac51";
+        
+        // connection.ConnectionString = "server=192.168.10.150;port=3306;username=dac51;password=welcome;database=dac51";
         string query = "select * from student";
         MySqlCommand command = new MySqlCommand();
         try

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IET\\Documents\\DotNet\\Practise\\Day8\\BOL\\BOL.csproj": {}
+    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8\\BOL\\BOL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IET\\Documents\\DotNet\\Practise\\Day8\\BOL\\BOL.csproj": {
+    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Practise\\Day8\\BOL\\BOL.csproj",
+        "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Practise\\Day8\\BOL\\BOL.csproj",
-        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Practise\\Day8\\BOL\\obj\\",
+        "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

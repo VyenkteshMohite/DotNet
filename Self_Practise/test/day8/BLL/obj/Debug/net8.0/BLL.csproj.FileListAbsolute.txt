@@ -1,0 +1,17 @@
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\BLL.dll
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\BLL.pdb
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\BOL.dll
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\DAL.dll
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\BOL.pdb
+D:\IET\Dot Net\day8\BLL\bin\Debug\net8.0\DAL.pdb
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.dll
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\BLL.pdb
+D:\IET\Dot Net\day8\BLL\obj\Debug\net8.0\ref\BLL.dll
