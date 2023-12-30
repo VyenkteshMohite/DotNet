@@ -59,3 +59,6 @@ D:\IET\Dot Net\day8\DBcrud\obj\Debug\net8.0\refint\DBcrud.dll
 D:\IET\Dot Net\day8\DBcrud\obj\Debug\net8.0\DBcrud.pdb
 D:\IET\Dot Net\day8\DBcrud\obj\Debug\net8.0\DBcrud.genruntimeconfig.cache
 D:\IET\Dot Net\day8\DBcrud\obj\Debug\net8.0\ref\DBcrud.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\test\day8\DBcrud\obj\Debug\net8.0\DBcrud.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\test\day8\DBcrud\obj\Debug\net8.0\refint\DBcrud.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\test\day8\DBcrud\obj\Debug\net8.0\DBcrud.pdb

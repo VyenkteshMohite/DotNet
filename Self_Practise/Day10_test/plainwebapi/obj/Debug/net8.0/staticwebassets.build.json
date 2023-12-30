@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4fsXLl0cLDGYkvXfRHEf+dvveEKkueSVGULXhugGPDk=",
+  "Source": "plainwebapi",
+  "BasePath": "_content/plainwebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

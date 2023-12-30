@@ -10,8 +10,9 @@
 
     //step3=Write query
 
-    string query="select * from student";
+    //string query="select * from student";
     //string query="select count(*) from student";
+      string query="select * from student where namefirst='v'";
 
     //step4=Declare command
 
@@ -24,6 +25,10 @@
         connection.Open();
 
         //step6= read data object
+		
+		//for Insert,update delete====use ExecuteNonQuery();
+		//for Select ===use ExecuteReader();
+		//for Aggregate Function like count,sum,...= ExecuteScalar();
 
         MySqlDataReader reader=command.ExecuteReader();
 

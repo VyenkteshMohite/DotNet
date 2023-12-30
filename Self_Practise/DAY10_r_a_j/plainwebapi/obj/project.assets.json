@@ -2239,11 +2239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Desktop\\Dotnet Practice\\Day10\\Solution\\plainwebapi\\plainwebapi.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DAY10_r_a_j\\plainwebapi\\plainwebapi.csproj",
       "projectName": "plainwebapi",
-      "projectPath": "C:\\Users\\IET\\Desktop\\Dotnet Practice\\Day10\\Solution\\plainwebapi\\plainwebapi.csproj",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DAY10_r_a_j\\plainwebapi\\plainwebapi.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Desktop\\Dotnet Practice\\Day10\\Solution\\plainwebapi\\obj\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DAY10_r_a_j\\plainwebapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
