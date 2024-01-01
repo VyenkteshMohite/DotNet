@@ -1,0 +1,16 @@
+@using BOL;
+@using System.Collections.Generic;
+
+@{
+    List<Student> plist=(List<Student>)ViewData["products"];
+}
+
+<div class="text-center">
+    
+    @{
+        <h2>View</h2>
+        foreach(Student p in plist){
+            <p> @p.id  @p.firstname @p.lastname</p>
+        }
+   }
+</div>

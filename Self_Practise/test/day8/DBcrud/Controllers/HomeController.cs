@@ -30,8 +30,10 @@ public class HomeController : Controller
         
         Console.WriteLine("Controller");
 
+        //here the List of student and Classname.method ne call kela aahe came from BLL
         List<Student> plist=Connection.getAllstudent();
         ViewData["products"]=plist;
+        // here the products is the token for VIEW
         return View();
     }
 

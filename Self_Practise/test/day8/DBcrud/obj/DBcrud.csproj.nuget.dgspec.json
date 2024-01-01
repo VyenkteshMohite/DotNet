@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IET\\Dot Net\\day8\\DBcrud\\DBcrud.csproj": {}
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\dbcrud\\DBcrud.csproj": {}
   },
   "projects": {
-    "D:\\IET\\Dot Net\\day8\\BLL\\BLL.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\day8\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\IET\\Dot Net\\day8\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\day8\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj"
               },
-              "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj"
               }
             }
           }
@@ -64,17 +64,17 @@
         }
       }
     },
-    "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\day8\\BOL\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -117,17 +117,17 @@
         }
       }
     },
-    "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\day8\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -139,8 +139,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj"
               }
             }
           }
@@ -180,17 +180,17 @@
         }
       }
     },
-    "D:\\IET\\Dot Net\\day8\\DBcrud\\DBcrud.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\dbcrud\\DBcrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\day8\\DBcrud\\DBcrud.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\dbcrud\\DBcrud.csproj",
         "projectName": "DBcrud",
-        "projectPath": "D:\\IET\\Dot Net\\day8\\DBcrud\\DBcrud.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\day8\\DBcrud\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\dbcrud\\DBcrud.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\dbcrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -202,14 +202,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IET\\Dot Net\\day8\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\day8\\BLL\\BLL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BLL\\BLL.csproj"
               },
-              "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\day8\\BOL\\BOL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\BOL\\BOL.csproj"
               },
-              "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\day8\\DAL\\DAL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\test\\day8\\DAL\\DAL.csproj"
               }
             }
           }
