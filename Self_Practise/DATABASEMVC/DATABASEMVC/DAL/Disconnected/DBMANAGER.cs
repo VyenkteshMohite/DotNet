@@ -65,7 +65,7 @@ public class DBManager
             return slist;
     }
 
-
+    //this is for login validation purpose
      public static bool LoginUser(String User_name,String Password)
     {
             MySqlConnection con=new MySqlConnection();

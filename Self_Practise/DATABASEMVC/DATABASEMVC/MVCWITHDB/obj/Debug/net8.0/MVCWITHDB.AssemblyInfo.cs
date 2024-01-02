@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCWITHDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e59a7621787950365b2fef3a0fbf2c1abcc5f31f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCWITHDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCWITHDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

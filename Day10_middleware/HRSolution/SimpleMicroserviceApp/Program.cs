@@ -19,7 +19,7 @@ app.MapGet("/api/pmp/activities/complete", ( ) =>{
 
 app.MapGet("/api/pmp/activities/{id}",   (int id) =>{
 });
-
+    
 app.MapPost("/api/pmp/activities", async (Activity Activity) =>
 {
     return Results.Created($"/pmp/{Activity.Id}", Activity);

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\Ayush_Git\\DOTNET\\Day10\\HRSolution\\SimpleMicroserviceApp\\SimpleMicroserviceApp.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\SimpleMicroserviceApp\\SimpleMicroserviceApp.csproj",
       "projectName": "SimpleMicroserviceApp",
-      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\Ayush_Git\\DOTNET\\Day10\\HRSolution\\SimpleMicroserviceApp\\SimpleMicroserviceApp.csproj",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\SimpleMicroserviceApp\\SimpleMicroserviceApp.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\Ayush_Git\\DOTNET\\Day10\\HRSolution\\SimpleMicroserviceApp\\obj\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\SimpleMicroserviceApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"

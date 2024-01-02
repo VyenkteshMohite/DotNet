@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10\\HRSolution\\HRPortal\\HRPortal.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\HRPortal\\HRPortal.csproj",
       "projectName": "HRPortal",
-      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10\\HRSolution\\HRPortal\\HRPortal.csproj",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\HRPortal\\HRPortal.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10\\HRSolution\\HRPortal\\obj\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\HRPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"

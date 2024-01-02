@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K/VAe6sNYN7/YqiNYsOq+pCyTqbcEWBlwTyVRHqI7j8sDdTZE1cOAnmbNBy/aiIx2X9fjfISODtSXieuDVOoCg==",
+  "dgSpecHash": "8Nlr6zRm4WdGmjEGGdTc+lJf4NKYglWSjBuohu0deQlszDFRjcyxPLa3zK0VSEagpAigO96Z4c+WaHqwKzDWrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10\\HRSolution\\HRPortal\\HRPortal.csproj",
+  "projectFilePath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day10_middleware\\HRSolution\\HRPortal\\HRPortal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

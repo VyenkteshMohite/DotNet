@@ -33,3 +33,15 @@ D:\IET\Dot Net\GIt\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\ne
 D:\IET\Dot Net\GIt\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\refint\BOL.dll
 D:\IET\Dot Net\GIt\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.pdb
 D:\IET\Dot Net\GIt\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\ref\BOL.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\bin\Debug\net8.0\BOL.deps.json
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\bin\Debug\net8.0\BOL.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\bin\Debug\net8.0\BOL.pdb
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\refint\BOL.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\BOL.pdb
+C:\Users\IET\Documents\DotNet\Git\DotNet\Self_Practise\DATABASEMVC\DATABASEMVC\BOL\obj\Debug\net8.0\ref\BOL.dll

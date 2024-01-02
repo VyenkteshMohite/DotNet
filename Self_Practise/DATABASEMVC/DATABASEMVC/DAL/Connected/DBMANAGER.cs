@@ -7,6 +7,7 @@ public class DBManager
 {
     static String conectsString="server=127.0.0.1;port=3306;user=root;password=Mysql@1234;database=pracdb";
 
+    //this is for getting the list of the student 
     public static List<Student> getAllStudent()
     {
             List<Student> slist=new List<Student>();
@@ -51,6 +52,7 @@ public class DBManager
 
 
 
+    //this is for the validation of a user
 
     public static bool LoginUser(String User_name,String Password)
     {
