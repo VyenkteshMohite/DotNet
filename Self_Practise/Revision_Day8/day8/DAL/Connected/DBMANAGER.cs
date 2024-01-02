@@ -11,8 +11,11 @@ namespace DAL.Connected;
 public class DBManager{ 
 
 
+    //here we are creating the mysql server connection 
     static string connstr ="server=192.168.10.150;port=3306;user=dac51;password=welcome;database=dac51";
 
+    //here we are creating an list with static for allocating the size at once after execution and we are accesing
+    //this getallstudent in the student resources i.e BLL
     public static List<Student> getallstudent(){
 
         //creating a list object

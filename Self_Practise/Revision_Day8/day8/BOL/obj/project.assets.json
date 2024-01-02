@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\practise_day8\\day8\\BOL\\BOL.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\Revision_Day8\\day8\\BOL\\BOL.csproj",
       "projectName": "BOL",
-      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\practise_day8\\day8\\BOL\\BOL.csproj",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\Revision_Day8\\day8\\BOL\\BOL.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\practise_day8\\day8\\BOL\\obj\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\Revision_Day8\\day8\\BOL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"

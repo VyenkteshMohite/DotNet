@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dbcrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f502262af1196188ccc0ef3097fad0fe9f7be5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("dbcrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dbcrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
