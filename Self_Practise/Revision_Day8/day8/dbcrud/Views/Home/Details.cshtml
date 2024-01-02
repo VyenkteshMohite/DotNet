@@ -1,0 +1,23 @@
+@using BOL;
+
+
+@* here to print the data we need to fetch form the HomeController *@
+
+@{
+
+    List<Student> slist=(List<Student>)ViewData["student_details"];
+
+        foreach(Student s in slist){
+            <tr>
+                <td>@s.Id</td> 
+                <td>@s.first_name</td>
+                <td>@s.last_name</td> <br>
+
+                
+
+            </tr>
+        }
+
+
+
+}

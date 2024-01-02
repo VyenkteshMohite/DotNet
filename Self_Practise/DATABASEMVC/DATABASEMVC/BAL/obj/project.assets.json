@@ -1819,19 +1819,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
       "projectName": "BAL",
-      "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\obj\\",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1843,8 +1843,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj"
+            "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj"
             }
           }
         }

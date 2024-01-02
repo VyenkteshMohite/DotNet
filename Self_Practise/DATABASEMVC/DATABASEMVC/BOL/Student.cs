@@ -7,3 +7,10 @@ public class Student{
     public String First_name{get;set;}
     public String Last_name{get;set;}
 }
+
+
+
+
+ 
+// Flow of code should be like this
+// BOL---DAL----BLL-----Controller------view

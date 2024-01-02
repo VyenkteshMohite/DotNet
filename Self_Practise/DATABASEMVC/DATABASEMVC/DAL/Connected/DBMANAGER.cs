@@ -1,8 +1,8 @@
-using MySql.Data.MySqlClient;
+using MySql.Data.MySqlClient;   
 namespace dal.dbb.Connected;
 using BOL.student;
 
-
+    
 public class DBManager
 {
     static String conectsString="server=127.0.0.1;port=3306;user=root;password=Mysql@1234;database=pracdb";

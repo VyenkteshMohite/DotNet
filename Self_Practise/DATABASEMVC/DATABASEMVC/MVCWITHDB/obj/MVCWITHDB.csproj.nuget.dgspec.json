@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj": {}
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj": {}
   },
   "projects": {
-    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj"
               }
             }
           }
@@ -61,17 +61,17 @@
         }
       }
     },
-    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -114,17 +114,17 @@
         }
       }
     },
-    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -136,8 +136,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj"
               }
             }
           }
@@ -177,17 +177,17 @@
         }
       }
     },
-    "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj",
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj",
         "projectName": "MVCWITHDB",
-        "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\obj\\",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\MVCWITHDB.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\MVCWITHDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -199,14 +199,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BAL\\BAL.csproj"
               },
-              "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\BOL\\BOL.csproj"
               },
-              "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj"
+              "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\DATABASEMVC\\DATABASEMVC\\DAL\\DAL.csproj"
               }
             }
           }

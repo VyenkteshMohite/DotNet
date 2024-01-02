@@ -1785,19 +1785,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8testing\\DLL\\DLL.csproj",
+      "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\Day8testing\\DLL\\DLL.csproj",
       "projectName": "DLL",
-      "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8testing\\DLL\\DLL.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Self_Practise\\Day8testing\\DLL\\obj\\",
+      "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\Day8testing\\DLL\\DLL.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Self_Practise\\Day8testing\\DLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
