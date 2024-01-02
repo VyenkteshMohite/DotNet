@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\obj\\",
+=======
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\obj\\",
+>>>>>>> 572c8f2bc186bf9734de2566078577f46a8df4af
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

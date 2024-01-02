@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "qyHDgRKm048qtdUqQU+vJQWitEUErVUSLj1jVB0jmPh2/BICa1aLZR5vrhoELp8IQZQqcfc6GX1UCdrAmWZSQQ==",
   "success": true,
   "projectFilePath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj",
+=======
+  "dgSpecHash": "2/iN3UCU+uGXpoMN1e4EotuKert8pFCVKUTz9/V40fHnzMu6p6f8B3d5G4nNmDLC/Wft4k/ULUpA+JQ4VRw95A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj",
+>>>>>>> 572c8f2bc186bf9734de2566078577f46a8df4af
   "expectedPackageFiles": [],
   "logs": []
 }

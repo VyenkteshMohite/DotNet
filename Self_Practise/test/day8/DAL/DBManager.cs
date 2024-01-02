@@ -5,11 +5,11 @@ namespace DAL;
 
 public class DBManager
 {
-    public static List<Student> getAllstudent()
+    public static List<Student> .()
     {
         List<Student> allstudent = new List<Student>();
         MySqlConnection connection = new MySqlConnection();
-        connection.ConnectionString = "server=192.168.10.150;port=3306;username=dac51;password=welcome;database=dbt";
+        connection.ConnectionString = "server=192.168.10.150;port=3306;username=dac51;password=welcome;database=dac51";
         string query = "select * from student";
         MySqlCommand command = new MySqlCommand();
         try

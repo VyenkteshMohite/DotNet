@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAL
+<<<<<<< HEAD
 build_property.ProjectDir = D:\IET\Dot Net\GIt\DotNet\Day8_WebSolution\WebSolution\DAL\
+=======
+build_property.ProjectDir = C:\Users\IET\Documents\DotNet\Git\DotNet\Day8_WebSolution\websolution\DAL\
+>>>>>>> 572c8f2bc186bf9734de2566078577f46a8df4af
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

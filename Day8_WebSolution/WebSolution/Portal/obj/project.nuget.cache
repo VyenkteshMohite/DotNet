@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Oi/GWCkD6N9tt4umHaPjjMnmwpDDGnNFPHPFZsVcYUqzKNTouv/sg6fPEdfslry7eRCII3J+SYAoc7mC9oiP/g==",
   "success": true,
   "projectFilePath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\Portal.csproj",
+=======
+  "dgSpecHash": "YD3+vozvjlbCTdMv7XTbABEC+e+eoXKyfivjCIsXDc1oSTB43ZIRF4XsFM+cFYaNpH41v73mKTRR1llBO2qylA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\Portal.csproj",
+>>>>>>> 572c8f2bc186bf9734de2566078577f46a8df4af
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
