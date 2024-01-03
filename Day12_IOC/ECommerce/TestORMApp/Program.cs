@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using BOL;
 using DAL;
+using Org.BouncyCastle.Asn1.Misc;
 Console.WriteLine ("Welcome to Microlearning :Transflower");
 
 IDBManager dbm=new DBManager();
@@ -34,14 +35,21 @@ while(status)
             
         //Insert new  Department
         case 2:
-            var newDept = new Department()
-            {
-                Id = 23,
-                Name = "Research",
-                Location = "Chennai"
+        
+            // var newDept = new Department()
+            // {
+
+            //     Id = 23,
+            //     Name = "Research",
+            //     Location = "Chennai"
                 
-            };
-            dbm.Insert(newDept);
+            // };
+            // dbm.Insert(newDept);
+
+          Console.WriteLine("Enter  Id ")
+           Id =int.Parse(Console.ReadLine().ToString());
+        
+        
         break;
 
         // Update existing Department

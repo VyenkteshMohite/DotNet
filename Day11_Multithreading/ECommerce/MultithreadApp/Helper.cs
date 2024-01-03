@@ -6,17 +6,62 @@ public static class Helper{
             // defining callback function and invoking callback function
             // using internal thread pool
               await Task.Run(()=>{
-                    Console.WriteLine("storing data to JSON file");
+				  //arrow => operator to quickly define JavaScript functions,
+				  //with or without parameters
+                    Console.WriteLine("StoreData Function Called ...");
                     Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
             });
         }
 
         public static  async  Task  GetRemoteData(){
              await Task.Run(()=>{
-                Console.WriteLine("getting  data from external world");
+                Console.WriteLine("GetRemoteData Function Called !!");
                  Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
             });
         }
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// namespace util;
+// using System.Threading;
+
+// public static class Helper{
+	
+// 	public static async Task StoreData(){
+// 		await Task.Run(()=>{
+// 			Console.WriteLine("Calling StoreData....");
+// 			Console.WriteLine(Thread.CurrentThread.ManagedThreadId);
+// 	});
+// }

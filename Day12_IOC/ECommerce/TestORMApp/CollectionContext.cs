@@ -9,7 +9,7 @@ public class CollectionContext:DbContext{
     public DbSet<Department> Departments {get;set;}
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        string conString=@"server=localhost;port=3306;user=root; password=password;database=transflower";       
+        string conString=@"server=192.168.10.150;port=3306;user=dac51; password=welcome;database=dac51";       
         optionsBuilder.UseMySQL(conString);
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
