@@ -35,6 +35,7 @@ while(status)
             
         //Insert new  Department
         case 2:
+        {
         
             // var newDept = new Department()
             // {
@@ -46,27 +47,55 @@ while(status)
             // };
             // dbm.Insert(newDept);
 
-          Console.WriteLine("Enter  Id ")
-           Id =int.Parse(Console.ReadLine().ToString());
-        
-        
-        break;
+          Console.WriteLine("Enter  Id: ");
+            int Id = int.Parse(Console.ReadLine().ToString());
+            Console.WriteLine("Enter Name:");
+            string name=Console.ReadLine().ToString();
+            Console.WriteLine("Enter Location: ");
+            string location=Console.ReadLine().ToString();
+
+            var newDept=new Department(){
+                Id=Id,
+                Name=name,
+                Location=location
+            };
+            dbm.Insert(newDept);
+        }
+            break;
 
         // Update existing Department
         case 3:
         {
-            var updateDepartment = new Department(){
-                Id = 23,
-                Name = "Warehouse",
-                Location = "Mumbai"   
+            // var updateDepartment = new Department(){
+            //     Id = 23,
+            //     Name = "Warehouse",
+            //     Location = "Mumbai"   
+            // };
+            // dbm.Update(updateDepartment);
+
+            Console.WriteLine("Enter the id to update: ");
+            int Id=int.Parse(Console.ReadLine().ToString());
+            Console.WriteLine("Enter the Name to Update: ");
+            string name=Console.ReadLine();
+            Console.WriteLine("Enter the Location to Update");
+            string location=Console.ReadLine();
+            
+            var updatedetails=new Department(){
+                Id=Id,
+                Name=name,
+                Location=location
             };
-            dbm.Update(updateDepartment);
+            dbm.Update(updatedetails);
+
         }
         break;
     
         // Delete existing Department
         case 4:
-            dbm.Delete(23);
+
+        Console.WriteLine("Enter the Id to Delete: ");
+         int id=int.Parse(Console.ReadLine().ToString());
+            dbm.Delete(id);
         break;
     
         //Exit from loop
