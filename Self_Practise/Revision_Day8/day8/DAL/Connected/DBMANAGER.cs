@@ -1,9 +1,6 @@
 using System.Diagnostics.Contracts;
 using BOL;
 
-
-
-
 using MySql.Data.MySqlClient;
 
 namespace DAL.Connected;
@@ -12,8 +9,9 @@ public class DBManager{
 
 
     //here we are creating the mysql server connection 
-    static string connstr ="server=192.168.10.150;port=3306;user=dac51;password=welcome;database=dac51";
+   // static string connstr ="server=192.168.10.150;port=3306;user=dac51;password=welcome;database=dac51";
 
+    static string connstr="server=127.0.0.1;port=3306;user=root;password=root;database=dbt";
     //here we are creating an list with static for allocating the size at once after execution and we are accesing
     //this getallstudent in the student resources i.e BLL
     public static List<Student> getallstudent(){
@@ -29,7 +27,7 @@ public class DBManager{
         //step3=write query
 
         string query="select * from student";
-
+        
         MySqlCommand command=new MySqlCommand(query,connect);
 
         try{

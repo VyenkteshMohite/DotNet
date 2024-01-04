@@ -1,0 +1,18 @@
+@using BOL;
+
+@{
+    List<Student> slist=(List<Student>)ViewData["Student_details"];
+
+        foreach(Student s in slist){
+            
+            <tr>
+                <td>@s.Id</td>
+                <td>@s.First_Name</td>
+                <td>@s.Last_Name</td>   
+
+            </tr>
+
+
+        }
+}
+

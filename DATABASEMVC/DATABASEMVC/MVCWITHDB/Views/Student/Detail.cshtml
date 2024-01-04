@@ -1,0 +1,41 @@
+@using BOL.student;
+ 
+
+@{
+    ViewData["title"]="Index Page";
+}
+
+<div class="col-xs-1 text-center">
+    <h2>Records of Student</h2>
+
+    <table class="table table-striped table-dark">
+  <tr>
+    <th>ID</th>
+    <th>First_name</th>
+    <th>Last_name</th>
+    <th>Option</th>
+  </tr>
+  
+  @{
+      List<Student> slist=(List<Student>)ViewData["student_list"];
+
+      foreach(Student s in slist)
+      {
+        <tr>
+        <td>@s.ID</td>
+        <td>@s.First_name</td>
+        <td>@s.Last_name</td>
+        <td>
+        
+        <a href=/Student/Edit/@s.ID target="#">Edit |
+        <a href=/Student/Delete/@s.ID>Delete
+        </td>
+        </tr>
+      }
+    }
+ 
+</table>
+<br>
+<input type="button" value="Add" class="btn btn-success" onclick="location.href='@Url.Action("Add", "Student")'" />
+<hr>
+</div>  

@@ -27,7 +27,7 @@ public class HomeController : Controller
         //Here the List slist will get the data form the STUDENTRESOURCES with GET() Mehthod
         this.ViewData["student_details"]=slist;
         //this will represent the current ViewData and the ViewData["student_details"] is written in the Student_resource 
-        //that we need to write as it is
+        //that we need to write as it is as it is passed to the Details.cshtml
         return View();
         //here we are returning the view() to the view(Details.cshtml)
     }
