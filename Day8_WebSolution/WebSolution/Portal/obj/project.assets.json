@@ -1840,27 +1840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\Portal.csproj",
-      "projectName": "Portal",
-      "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\Portal.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\Portal.csproj",
       "projectName": "Portal",
       "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\Portal.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\obj\\",
->>>>>>> 572c8f2bc186bf9734de2566078577f46a8df4af
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1872,16 +1864,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
-            "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BLL\\BLL.csproj"
-            },
-            "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj": {
-              "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\BOL\\BOL.csproj"
-            },
-            "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Day8_WebSolution\\WebSolution\\DAL\\DAL.csproj"
-=======
             "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BLL\\BLL.csproj": {
               "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\BLL\\BLL.csproj"
             },
@@ -1890,7 +1872,6 @@
             },
             "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\DAL\\DAL.csproj"
->>>>>>> 572c8f2bc186bf9734de2566078577f46a8df4af
             }
           }
         }
@@ -1926,5 +1907,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\IET\\Documents\\DotNet\\Git\\DotNet\\Day8_WebSolution\\WebSolution\\Portal\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

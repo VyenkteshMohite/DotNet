@@ -1,0 +1,15 @@
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\bin\Debug\net7.0\MultithreadApp.exe
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\bin\Debug\net7.0\MultithreadApp.deps.json
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\bin\Debug\net7.0\MultithreadApp.runtimeconfig.json
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\bin\Debug\net7.0\MultithreadApp.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\bin\Debug\net7.0\MultithreadApp.pdb
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.AssemblyInfo.cs
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.sourcelink.json
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\refint\MultithreadApp.dll
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.pdb
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\MultithreadApp.genruntimeconfig.cache
+C:\Users\IET\Documents\DotNet\Git\DotNet\Day11_Multithreading\ECommerce\MultithreadApp\obj\Debug\net7.0\ref\MultithreadApp.dll
