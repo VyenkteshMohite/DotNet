@@ -1790,11 +1790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IET\\Dot Net\\Exam\\crud\\Dbcurd\\Dbcurd.csproj",
+      "projectUniqueName": "D:\\IET\\Dot Net\\GIt\\DotNet\\Exam\\crud\\Dbcurd\\Dbcurd.csproj",
       "projectName": "Dbcurd",
-      "projectPath": "D:\\IET\\Dot Net\\Exam\\crud\\Dbcurd\\Dbcurd.csproj",
+      "projectPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Exam\\crud\\Dbcurd\\Dbcurd.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\IET\\Dot Net\\Exam\\crud\\Dbcurd\\obj\\",
+      "outputPath": "D:\\IET\\Dot Net\\GIt\\DotNet\\Exam\\crud\\Dbcurd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

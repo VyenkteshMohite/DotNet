@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center contain">
+    <h1 class="display-4">Add Employee</h1>
+    <hr/>
+    @{
+        var res = this.ViewData["res"] as string;
+    }
+    <p>@res</p>
+    <div class="contain">
+        <form method="post">
+            <label for="id">Employee ID: <input type="text" name="id" id="id"></label>
+            <br />
+            <br />
+            <label for="fname">First Name: <input type="text" name="fname" id="fname"></label>
+            <br />
+            <br />
+            <label for="lname">Last Name: <input type="text" name="lname" id="lname"></label>
+            <br/>
+            <br/>
+            <button class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>

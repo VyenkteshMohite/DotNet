@@ -1,0 +1,110 @@
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\appsettings.Development.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\appsettings.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.staticwebassets.runtime.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.exe
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.deps.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.runtimeconfig.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.pdb
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MySql.Data.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\ZstdSharp.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.csproj.AssemblyReference.cache
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.AssemblyInfoInputs.cache
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.AssemblyInfo.cs
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.csproj.CoreCompileInputs.cache
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.RazorAssemblyInfo.cache
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.RazorAssemblyInfo.cs
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets.build.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets.development.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.MgnPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.build.MgnPortal.props
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MgnPortal.props
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MgnPortal.props
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\scopedcss\bundle\MgnPortal.styles.css
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\scopedcss\projectbundle\MgnPortal.bundle.scp.css
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.csproj.CopyComplete
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\refint\MgnPortal.dll
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.pdb
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.genruntimeconfig.cache
+D:\Web Dev Courses\CDAC\DotNet\Project\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\ref\MgnPortal.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.exe
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.deps.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.runtimeconfig.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MgnPortal.pdb
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.AssemblyInfo.cs
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.MgnPortal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.build.MgnPortal.props
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MgnPortal.props
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MgnPortal.props
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\scopedcss\bundle\MgnPortal.styles.css
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\scopedcss\projectbundle\MgnPortal.bundle.scp.css
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.csproj.CopyComplete
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\refint\MgnPortal.dll
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.pdb
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\MgnPortal.genruntimeconfig.cache
+C:\Users\Admin\Downloads\EmployeeMgnPortal\MgnPortal\obj\Debug\net8.0\ref\MgnPortal.dll
